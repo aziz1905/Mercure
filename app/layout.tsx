@@ -19,9 +19,9 @@ const parkinsans = Parkinsans({
 });
 
 export const metadata: Metadata = {
-  title: "Codeguide Starter Fullstack",
+  title: "Mercure Hotels - Accor",
   description:
-    "A modern Next.js starter with TypeScript, TailwindCSS, shadcn/ui, Better Auth, and Drizzle ORM",
+    "Book your stay at Mercure hotels worldwide. Part of the Accor group offering comfortable and accessible accommodations.",
 };
 
 export default function RootLayout({
